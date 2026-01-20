@@ -11,4 +11,4 @@ The main scripts used is:
 3. `passive_modes.ino` located in `arduino_scripts/passive_modes/`. This script is used to activate the passive training mode functionality which is similar to how commercial continuous passive motion devices work.
 
 # PUBLICATION AND VIDEO EXPLAINER
-Rehab-bot is now an Open-Access paper [published](https://www.sciencedirect.com/science/article/pii/S2667241325000047) in the journal of Cognitive Robotics. I also made an [explainer YouTube video](https://www.youtube.com/watch?v=76rdyxkJO3A).
+Rehab-bot is now an Open-Access paper [published](https://www.sciencedirect.com/science/article/pii/S2667241325000047) in the journal of [Cognitive Robotics](https://www.sciencedirect.com/journal/cognitive-robotics). I also made an [explainer YouTube video](https://www.youtube.com/watch?v=76rdyxkJO3A).
